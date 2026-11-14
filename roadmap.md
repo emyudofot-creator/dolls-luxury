@@ -1,0 +1,16 @@
+# Roadmap
+- [x] Storefront (home, filters, product page, cart)
+- [x] Checkout with bank transfer details + order saving
+- [x] Admin: inventory, settings, orders
+- [x] Brand name: Dolls Luxury
+- [x] Inventory quantities and private production costs
+- [x] Atomic checkout stock deductions and historical sales records
+- [x] Admin valuations, completed sales totals, and recent sales history
+- [x] Verify inventory and sales flows
+- [x] "Two Piece" category: admin dropdown, storefront filter, fallback photo, category filter test
+- [x] Stockpiling option, Nigeria delivery fees by region, admin fee table, stockpiled sales filter
+- [x] Super Admin (emyudofot@gmail.com), no sign-up, Admin Management tab, new delivery zones
+- [x] Akwa Ibom zone relabelled "Uyo, Eket, Abak & Oron (Akwa Ibom)" with all four towns on one fee
+- [x] Floating WhatsApp customer-service button with speech bubble, site-wide except admin
+- [x] Home screen picture reverted to the original hero photo; uploaded portrait kept in media storage
+- [x] Order item thumbnails in admin Orders view, with box-icon placeholder for products with no photo
